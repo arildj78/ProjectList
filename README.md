@@ -3,6 +3,7 @@
 |repository|Description|Status|
 |-|-|-|
 |-|ICS iPhone adapter|Started|
+|-|ICS Conference||
 |-|FieldMill|Started|
 |-|Battery tester|Started|
 |-|CoffeeGrinderTimer|Not started|
