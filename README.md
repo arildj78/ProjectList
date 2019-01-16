@@ -8,3 +8,4 @@
 |-|CoffeeGrinderTimer|Not started|
 |-|eUp infotainment system|Not started|
 |-|WaterDroplet rig|Not started|
+|-|Drone lighting rig|Not started|
