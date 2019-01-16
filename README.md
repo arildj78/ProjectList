@@ -6,4 +6,5 @@
 |-|FieldMill|Started|
 |-|Battery tester|Started|
 |-|CoffeeGrinderTimer|Not started|
-|-
+|-|eUp infotainment system|Not started|
+|-|WaterDroplet rig|Not started|
