@@ -12,5 +12,6 @@
 |           |Drone lighting rig     |Not started|
 |           |AirConditioning monitor|Not started|
 |           |APS film holder for scan |Not started|
+|           |Slides lighttable        |Not started|
 
 [OFM]: https://github.com/arildj78/OpenFieldMill
