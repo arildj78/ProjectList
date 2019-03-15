@@ -11,8 +11,9 @@
 |              |WaterDroplet rig       |Not started|
 | [DroneLight] |Drone lighting rig     |Not started|
 |              |AirConditioning monitor|Not started|
-|              |APS film holder for scan |Not started|
-|              |Slides lighttable        |Not started|
+|              |APS film holder for scan  |Not started|
+|              |Slides lighttable         |Not started|
+|              |Airborne Avalance Receiver|Not started|
 
 [OFM]:        https://github.com/arildj78/OpenFieldMill
 [DroneLight]: https://github.com/arildj78/DroneLights
