@@ -14,6 +14,7 @@
 |              |APS film holder for scan  |Not started|
 |              |Slides lighttable         |Not started|
 |              |Airborne Avalance Receiver|Not started|
+|              |Super8 film scanner       |Not started|
 
 [OFM]:        https://github.com/arildj78/OpenFieldMill
 [DroneLight]: https://github.com/arildj78/DroneLights
